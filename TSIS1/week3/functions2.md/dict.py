@@ -120,4 +120,3 @@ movies = [
 
 # print(ImC("Romance"))
     
-# print(l)
